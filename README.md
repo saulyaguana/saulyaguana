@@ -8,7 +8,7 @@
 Llevo estudiando desarrollo de software desde 2020
 
 En ese año decidí tomarme el desarrollo de software muy enserio y hasta hoy no he parado de aprender,
-ahora me dedico al desarrollo backend y cada día aprendiendo IA, matemáticas, algoritmos de ML y sus bibliotecas mas usadas.
+ahora me dedico 100% a la IA en el subcampo de Machine Learning pero mas en específico en Deep Learning.
 
 Desde 2022 soy instructor enseñando Python y otras tecnologías como Git para llevar a mis estudiantes a dominar este Lenguaje de programación
 
