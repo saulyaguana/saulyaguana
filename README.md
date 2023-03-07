@@ -21,8 +21,9 @@ Desde 2022 soy instructor enseñando Python y otras tecnologías como Git para l
 
 ![image](https://user-images.githubusercontent.com/83479030/219874160-d0f13183-1dd4-4dac-84ae-4cc155ca4677.png)
 ![image](https://user-images.githubusercontent.com/83479030/219874240-aa22a5a9-0c1b-4c40-b8f4-e925bf2729f2.png)
-![image](https://user-images.githubusercontent.com/83479030/219874314-ad115124-3714-4483-8f15-6c4bf3f52423.png)
-![image](https://user-images.githubusercontent.com/83479030/219874371-8d29b4e2-dfc9-400f-bdaf-7b39ee58dbeb.png)
+![image](https://user-images.githubusercontent.com/83479030/223309973-b6557a93-22f9-4b99-93a4-ab812ea70aa0.png)
+
+
 ![image](https://user-images.githubusercontent.com/83479030/219874541-304d9c9b-9c66-443a-82dc-34f826f8d35a.png)
 ![image](https://user-images.githubusercontent.com/83479030/219874570-59d6eef2-ed09-4d40-9966-27c2c0b05d3d.png)
 
