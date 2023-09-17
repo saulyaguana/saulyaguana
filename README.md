@@ -1,16 +1,17 @@
 # Hola, me llamo **Saúl Yaguana** 👋
 
-### Python Developer, Backend & IA
+### Python Developer || Machine Learning || Deep Learning || Computer Vision 👁️
 
 ![image](https://user-images.githubusercontent.com/83479030/219871878-162910a4-7bcc-4c77-8a5e-8b0b8e67b897.png)
 
 
 Llevo estudiando desarrollo de software desde 2020
 
-En ese año decidí tomarme el desarrollo de software muy enserio y hasta hoy no he parado de aprender,
-ahora me dedico 100% a la IA en el subcampo de Machine Learning pero mas en específico en Deep Learning.
+Desde 2022 decidí enfocarme en IA de manera profesional, específicamente al campo del Computer Vision.
 
-Desde 2022 soy instructor enseñando Python y otras tecnologías como Git para llevar a mis estudiantes a dominar este Lenguaje de programación
+Actaulemnte estoy aprendiendo con la comunidad de OpenCV, quienes tienen sus propios cursos profesionales.
+
+También estoy aprendiendo de libros profesionales de Deep Learning, Machine Learning y OpenCV.
 
 ## Tecnologías:
 ![image](https://user-images.githubusercontent.com/83479030/219872689-c07eba7d-593a-4e54-9077-0a0c8d33efa7.png)
