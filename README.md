@@ -5,13 +5,10 @@
 ![image](https://user-images.githubusercontent.com/83479030/219871878-162910a4-7bcc-4c77-8a5e-8b0b8e67b897.png)
 
 
-Llevo estudiando desarrollo de software desde 2020
+Soy estudiante en ciencias de la computación, apasionado y aspirante a convertirme en ingeniero en Computer Vision,
+estudiando con los mejores recursos en esta área.
 
-Desde 2022 decidí enfocarme en IA de manera profesional, específicamente al campo del Computer Vision.
-
-Actaulemnte estoy aprendiendo con la comunidad de OpenCV, quienes tienen sus propios cursos profesionales.
-
-También estoy aprendiendo de libros profesionales de Deep Learning, Machine Learning y OpenCV.
+Mi enfoque se centra en la creación, diseño y mantenimiento de CNNs con Keras.
 
 ## Tecnologías:
 ![image](https://user-images.githubusercontent.com/83479030/219872689-c07eba7d-593a-4e54-9077-0a0c8d33efa7.png)
