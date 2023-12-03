@@ -11,21 +11,8 @@ estudiando con los mejores recursos en esta área.
 Mi enfoque se centra en la creación, diseño y mantenimiento de CNNs con Keras.
 
 ## Tecnologías:
-![image](https://user-images.githubusercontent.com/83479030/219872689-c07eba7d-593a-4e54-9077-0a0c8d33efa7.png)
-![image](https://user-images.githubusercontent.com/83479030/219874461-3ee3cc12-2c50-4eb0-bd7c-5449fd58044f.png)
-![image](https://user-images.githubusercontent.com/83479030/219872770-86fcd260-482c-4890-a9f8-d34a7fb6216a.png)
-![image](https://user-images.githubusercontent.com/83479030/219872781-16fa3a3d-de7a-4d59-ba02-46336e16ec26.png)
-![image](https://user-images.githubusercontent.com/83479030/219873447-d7dcc087-dfd1-43cd-b334-1673afceef33.png)
-
-![image](https://user-images.githubusercontent.com/83479030/219874160-d0f13183-1dd4-4dac-84ae-4cc155ca4677.png)
-![image](https://user-images.githubusercontent.com/83479030/219874240-aa22a5a9-0c1b-4c40-b8f4-e925bf2729f2.png)
-![image](https://user-images.githubusercontent.com/83479030/223309973-b6557a93-22f9-4b99-93a4-ab812ea70aa0.png)
-
-
-![image](https://user-images.githubusercontent.com/83479030/219874541-304d9c9b-9c66-443a-82dc-34f826f8d35a.png)
-![image](https://user-images.githubusercontent.com/83479030/219874570-59d6eef2-ed09-4d40-9966-27c2c0b05d3d.png)
-
-
-## Encuéntrame en:
-[![image](https://user-images.githubusercontent.com/83479030/219873171-ad762f1a-af75-4d4e-aa2f-8cc64d28e06d.png)](https://twitter.com/saulyaguana)
-[![image](https://user-images.githubusercontent.com/83479030/219873363-32630271-04a1-46f5-8dc0-f156f31cc937.png)](https://www.instagram.com/saul_yaguana/)
+| Logo 1 | Logo 2 | Logo 3 |
+|--------|--------|--------|
+| ![Logo 1]([url_logo_1](https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/tensorflow/tensorflow-original.svg)) | ![Logo 2]([url_logo_2](https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/opencv/opencv-original-wordmark.svg)) | ![Logo 3]([url_logo_3](https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/numpy/numpy-original.svg)) |
+| ![Logo 4]([url_logo_4](https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg)https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg) | ![Logo 5]([url_logo_5](https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg)https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg) | ![Logo 6]([url_logo_6](https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original-wordmark.svg)https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original-wordmark.svg) |
+| ![Logo 7]([url_logo_7](https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jupyter/jupyter-original-wordmark.svg)https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jupyter/jupyter-original-wordmark.svg) | ![Logo 8]([url_logo_8](https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/anaconda/anaconda-original.svg)https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/anaconda/anaconda-original.svg) | ![Logo 9]([url_logo_9](https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vscode/vscode-original.svg)https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vscode/vscode-original.svg) |
