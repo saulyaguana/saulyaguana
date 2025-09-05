@@ -3,8 +3,7 @@
 ### Deep Learning & Computer Vision Engineer
 
 <p align="center">
-  <img src="<img width="1182" height="777" alt="image" src="https://github.com/user-attachments/assets/7241b7cd-5cea-4b75-adca-a8cef09c06a3" />
-" alt="banner" width="500"/>
+  <img src="https://images.unsplash.com/photo-1753040050114-ae924195a578?q=80&w=1182&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="banner" width="500" />
 </p>
 
 <p align="center">
