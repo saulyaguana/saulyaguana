@@ -3,14 +3,17 @@
 ### Deep Learning & Computer Vision Engineer
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/83479030/219871878-162910a4-7bcc-4c77-8a5e-8b0b8e67b897.png" alt="banner" width="500"/>
+  <img src="<img width="1182" height="777" alt="image" src="https://github.com/user-attachments/assets/7241b7cd-5cea-4b75-adca-a8cef09c06a3" />
+" alt="banner" width="500"/>
 </p>
 
 <p align="center">
-Developer specialized in **deep learning** with a strong focus on **computer vision**, dedicated to the **design, training, and optimization** of advanced models.  
-My work revolves around integrating AI with strategic technologies, including applications in the **military and defense sectors**.  
-I am also open to projects in **industrial automation**, **medical image analysis**, and **everyday tech solutions** that leverage computer vision and deep learning.  
+  <strong>Developer</strong> focused on <strong>deep learning</strong> with a specialization in <strong>computer vision</strong>, oriented towards the creation of advanced solutions with applications in the <strong>military field</strong>.<br><br>
+  My work centers on the <strong>design, training, and optimization</strong> of computer vision models, integrating <strong>modern techniques</strong> in <strong>image processing</strong> and <strong>deep learning</strong>.<br><br>
+  My interest in <strong>geopolitics</strong>, <strong>strategic analysis</strong>, and <strong>defense technologies</strong> drives my goal of connecting <strong>artificial intelligence</strong> with <strong>next-generation military systems</strong>.<br><br>
+  I have solid experience in <strong>Python</strong>, <strong>TensorFlow</strong>, and <strong>OpenCV</strong>, as well as fundamental tools for development environments such as <strong>Linux</strong>, <strong>shell scripting</strong>, and <strong>version control</strong> with <strong>Git/GitHub</strong>.
 </p>
+
 
 <p align="center">
 I have solid experience in **Python**, **TensorFlow**, and **OpenCV**, along with essential tools like **Linux**, **shell scripting**, and **Git/GitHub** for creating robust and scalable solutions.
