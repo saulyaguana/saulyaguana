@@ -13,11 +13,6 @@
   I have solid experience in <strong>Python</strong>, <strong>TensorFlow</strong>, and <strong>OpenCV</strong>, as well as fundamental tools for development environments such as <strong>Linux</strong>, <strong>shell scripting</strong>, and <strong>version control</strong> with <strong>Git/GitHub</strong>.
 </p>
 
-
-<p align="center">
-I have solid experience in **Python**, **TensorFlow**, and **OpenCV**, along with essential tools like **Linux**, **shell scripting**, and **Git/GitHub** for creating robust and scalable solutions.
-</p>
-
 ---
 
 ## 🛠️ Technologies
